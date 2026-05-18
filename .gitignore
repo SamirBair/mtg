@@ -1,0 +1,16 @@
+# data
+data/imports/*
+!data/imports/.gitkeep
+data/imports/processed/
+data/*.db
+data/order_plan.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+
+# OS
+.DS_Store

@@ -1,0 +1,5 @@
+# stdlib only for now: sqlite3, xml.etree.ElementTree
+
+# Google Sheets sync (uncomment when ready)
+# gspread>=6.0
+# google-auth>=2.0
